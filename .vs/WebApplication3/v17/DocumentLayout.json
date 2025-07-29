@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vyshak\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4A9057-1182-4EFE-839A-DE1177C4226A}|WebApplication3\\WebApplication3.csproj|c:\\users\\vyshak\\source\\repos\\webapplication3\\webapplication3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4A9057-1182-4EFE-839A-DE1177C4226A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:29:45.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
